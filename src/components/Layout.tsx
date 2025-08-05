@@ -49,7 +49,11 @@ const Layout = ({ children }: LayoutProps) => {
         <div className="container flex h-14 items-center">
           <div className="mr-4 hidden md:flex">
             <Link to="/" className="mr-6 flex items-center space-x-2">
-              <Shield className="h-6 w-6 text-primary" />
+              <img 
+                src="/lovable-uploads/b822f19c-2bb6-4022-bd05-ecfae379b0b2.png" 
+                alt="FLARE Alert Logo" 
+                className="h-8 w-8" 
+              />
               <span className="hidden font-bold sm:inline-block">
                 FLARE Alert
               </span>

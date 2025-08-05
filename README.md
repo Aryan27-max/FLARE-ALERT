@@ -15,6 +15,11 @@ FlareAlert AI is a cutting-edge disaster mitigation system designed to improve s
 - **🖥️ Edge Computing with Google Coral TPU**: Real-time alerts with minimal latency, reducing dependency on cloud connectivity.
 - **💰 Affordable and Scalable**: Low cost and easy deployment for India's industrial zones.
 
+  ---
+# CHECKOUT THE WEPAPP
+https://flare-guardian-ai.lovable.app/
+  ---
+
 ## Problem Statement
 ### Key Threats:
 - **👩‍🔬 Human Casualties**: Overheating of machines and electrical components leading to fires.

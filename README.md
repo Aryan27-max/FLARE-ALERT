@@ -197,6 +197,12 @@ Project Inspiration: FLARE ALERT is inspired by the urgent need for sustainable 
 
 ---
 
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
 📞 Contact:
 For more information, feel free to contact the FLARE ALERT development team:
 

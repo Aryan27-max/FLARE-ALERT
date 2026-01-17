@@ -192,18 +192,6 @@ Project Inspiration: FLARE ALERT is inspired by the urgent need for sustainable 
 
 ---
 
-# MADE WITH ❤ by TEAM AURORA - 
-[github.com/Aryan27-max](https://github.com/Aryan27-max)
-
-[github.com/ryleigh023](https://github.com/ryleigh023)
-
-[github.com/Darshana9priya99](https://github.com/Darshana9priya99)
-
-[github.com/ProCDx](https://github.com/ProCDx)
-
-
----
-
 ## 📄 License
 
 This project is licensed under the **Apache2.0 License**.
@@ -213,7 +201,7 @@ This project is licensed under the **Apache2.0 License**.
 📞 Contact:
 For more information, feel free to contact the FLARE ALERT development team:
 
-📧 Email:gupta.raj.aryan@gmail.com
+📧 Email:gupta.raj.aryan.2005@gmail.com
 
 🖥️ GitHub: [github.com/Aryan27-max](https://github.com/Aryan27-max)
 

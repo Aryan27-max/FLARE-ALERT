@@ -1,3 +1,10 @@
+## 🔥 Project Origin & Authorship
+
+FLARE-ALERT is an original AI-powered fire detection and safety system
+conceptualized and developed by Aryan Gupta since 2024.
+
+This repository represents ongoing research and engineering work.
+Any derivative use must provide proper attribution to the original author.
 
 # 🚨 **FLARE ALERT**: Fire Safety (disaster mitigation) System 🚗⚡
 

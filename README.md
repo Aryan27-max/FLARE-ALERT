@@ -206,7 +206,7 @@ Project Inspiration: FLARE ALERT is inspired by the urgent need for sustainable 
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **Apache2.0 License**.
 
 ---
 

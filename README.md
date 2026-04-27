@@ -1,7 +1,7 @@
 ## 🔥 Project Origin & Authorship
 
 FLARE-ALERT is an original AI-powered fire detection and safety system
-conceptualized and developed by Aryan Gupta since 2024.
+conceptualized and developed by Aryan Gupta and Charvee Masand since 2024.
 
 This repository represents ongoing research and engineering work.
 Any derivative use must provide proper attribution to the original author.
@@ -201,8 +201,8 @@ This project is licensed under the **Apache2.0 License**.
 📞 Contact:
 For more information, feel free to contact the FLARE ALERT development team:
 
-📧 Email:gupta.raj.aryan.2005@gmail.com
+📧 Email:gupta.raj.aryan.2005@gmail.com and charvee.masand@gmail.com
 
-🖥️ GitHub: [github.com/Aryan27-max](https://github.com/Aryan27-max)
+🖥️ GitHub: [github.com/Aryan27-max](https://github.com/Aryan27-max) and [github.com/charveemasand108](https://github.com/charveemasand108)
 
 
